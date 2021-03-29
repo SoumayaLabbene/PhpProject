@@ -1,0 +1,25 @@
+body {
+    height: 100%;
+    background-image: url('https://image.freepik.com/photos-gratuite/lieu-travail-clavier-cahiers-tasse-cafe_23-2148128461.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  }
+  .header {
+    margin: 70px auto 0px;
+    color: #daa625
+    ;
+    padding: -5px;
+    text-align: center;
+    font-size: 50px;
+  }
+  .a{
+    text-align: center;
+  }
+  .float-left {
+    color: white    ;
+    font-size: 40px;
+    background: #e6c671 ;
+    border: none;
+
+  }
